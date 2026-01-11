@@ -10,4 +10,4 @@ Installation automatique :
 ## Installation
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/TON_GITHUB/samp-installer/main/setup.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/TON_GITHUB/samp-installer/main/setup.sh)
